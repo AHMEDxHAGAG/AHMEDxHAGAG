@@ -1,8 +1,14 @@
 # Hey I'm Ahmed
 
-a Pasionate CS Student
+a Passionate CS Student
 
 ## Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,go,qt,git,docker,vscode&perline=7" />
+  </a>
+</p>
 
 **Languages:** Python • C++ • Go  
 **Concepts:** REST APIs • Digital Logic Design • Desktop Applications • Video Processing
