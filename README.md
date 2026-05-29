@@ -4,52 +4,45 @@ a Passionate CS Student
 
 ## Skills
 
-### Languages & Runtime
+### 💻 Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,go,bash&perline=7" />
   </a>
 </p>
 
-### Backend & Databases
+### 🗄️ Backend & Databases
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,firebase,supabase&perline=6" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,firebase,supabase,graphql&perline=7" />
   </a>
 </p>
 
-### Development Tools & Editors
+### 🛠️ Development & Design
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,neovim,intellij,pycharm,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,neovim,intellij,pycharm,figma,zed&perline=7" />
   </a>
 </p>
 
-### DevOps & Infrastructure
+### 🚀 DevOps & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,maven,gradle&perline=7" />
   </a>
 </p>
 
-### Build & Testing Tools
+### 🤖 Data Science & ML
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=maven,gradle&perline=6" />
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch&perline=7" />
   </a>
 </p>
 
-### Data Science & ML Libraries
+### 🔧 Testing & API Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,numpy&perline=6" />
-  </a>
-</p>
-
-### APIs & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postman&perline=7" />
   </a>
 </p>
 
