@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Ahmed
-**Passionate CS Student** · Builder of things that run and think
+**Passionate CS Student**
 
 ---
 
