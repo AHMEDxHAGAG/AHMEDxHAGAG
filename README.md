@@ -1,65 +1,47 @@
-# Hey I'm Ahmed
+# 👋 Hey, I'm Ahmed
+**Passionate CS Student** · Builder of things that run and think
 
-a Passionate CS Student
+---
 
 ## Skills
 
-### 💻 Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,go,bash&perline=7" />
-  </a>
-</p>
+### Languages
+<p><img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,go,bash&perline=8" /></p>
 
-### 🗄️ Backend & Databases
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,firebase,supabase,graphql&perline=7" />
-  </a>
-</p>
+### Backend & databases
+<p><img src="https://skillicons.dev/icons?i=nodejs,graphql,redis,postgres,mysql,mongodb,firebase,supabase&perline=8" /></p>
 
-### 🛠️ Development & Design
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,neovim,intellij,pycharm,figma,zed&perline=7" />
-  </a>
-</p>
+### DevOps & infrastructure
+<p><img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,windows,docker,kubernetes,nginx&perline=8" /></p>
 
-### 🚀 DevOps & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,maven,gradle&perline=7" />
-  </a>
-</p>
+### CI/CD & deployment
+<p><img src="https://skillicons.dev/icons?i=githubactions,jenkins,vercel,render,railway&perline=8" /></p>
 
-### 🤖 Data Science & ML
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,pytorch&perline=7" />
-  </a>
-</p>
+### Build & package
+<p><img src="https://skillicons.dev/icons?i=cmake,maven,gradle,npm,arduino&perline=8" /></p>
 
-### 🔧 Testing & API Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman&perline=7" />
-  </a>
-</p>
+### Editors & tools
+<p><img src="https://skillicons.dev/icons?i=neovim,vim,vscode,obsidian,postman,figma,git,github,pycharm,clion,intellij&perline=8" /></p>
+
+### ML & data
+<p><img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy&perline=8" /></p>
+
+---
 
 ## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [Ascii-Frame](https://github.com/AHMEDxHAGAG/Ascii-Frame) | Convert any video into ASCII art and save it as an MP4 video with audio |
-| [LearnFlow_cpp](https://github.com/AHMEDxHAGAG/LearnFlow_cpp) | Task Manager Desktop App built with Qt C++ |
-| [MARIE-From-NAND-Gate](https://github.com/AHMEDxHAGAG/MARIE-From-NAND-Gate) | A MARIE 16-bit simulator built from NAND gates |
-| [Rest-API-Server-for-Puzzle-Game](https://github.com/AHMEDxHAGAG/Rest-API-Server-for-Puzzle-Game) | Simple REST API Server in Go for Puzzle Game |
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [Ascii-Frame](https://github.com/AHMEDxHAGAG/Ascii-Frame) | Python · OpenCV | Convert any video into ASCII art and save it as an MP4 with audio |
+| [LearnFlow_cpp](https://github.com/AHMEDxHAGAG/LearnFlow_cpp) | C++ · Qt | Task manager desktop app with full GUI — scheduling, tracking, persistence |
+| [MARIE-From-NAND-Gate](https://github.com/AHMEDxHAGAG/MARIE-From-NAND-Gate) | Hardware · Architecture | 16-bit MARIE CPU simulator built entirely from NAND gates |
+| [Rest-API-Server-for-Puzzle-Game](https://github.com/AHMEDxHAGAG/Rest-API-Server-for-Puzzle-Game) | Go · REST | Lightweight REST API server powering a puzzle game backend |
 
 ---
 
 <div align="center">
-  
-  ![GitHub followers](https://img.shields.io/github/followers/AHMEDxHAGAG?style=flat-square)
-  ![GitHub stars](https://img.shields.io/github/stars/AHMEDxHAGAG?style=flat-square)
-  
+
+![GitHub followers](https://img.shields.io/github/followers/AHMEDxHAGAG?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/AHMEDxHAGAG?style=flat-square)
+
 </div>
