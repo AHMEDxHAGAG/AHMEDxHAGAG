@@ -7,7 +7,7 @@ a Passionate CS Student
 ### Languages & Runtime
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,go,bash&perline=7" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@ a Passionate CS Student
 ### DevOps & Infrastructure
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,nginx&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux&perline=5" />
   </a>
 </p>
 
@@ -42,14 +42,16 @@ a Passionate CS Student
 ### Data Science & ML Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv&perline=6" />
+    <img src="https://skillicons.dev/icons?i=opencv,numpy&perline=6" />
   </a>
 </p>
 
-**Python Libraries:** NumPy • Pillow  
-**APIs & Tools:** REST API • HTTP • Postman • ngrok  
-**Operating Systems:** Linux • Arch  
-**Other:** Claude Code • Zed
+### APIs & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman&perline=6" />
+  </a>
+</p>
 
 ## Featured Projects
 
