@@ -4,14 +4,52 @@ a Passionate CS Student
 
 ## Skills
 
+### Languages & Runtime
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,go,qt,git,docker,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,bash&perline=6" />
   </a>
 </p>
 
-**Languages:** Python • C++ • Go  
-**Concepts:** REST APIs • Digital Logic Design • Desktop Applications • Video Processing
+### Backend & Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,firebase,supabase&perline=6" />
+  </a>
+</p>
+
+### Development Tools & Editors
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,neovim,intellij,pycharm,figma&perline=6" />
+  </a>
+</p>
+
+### DevOps & Infrastructure
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,nginx&perline=6" />
+  </a>
+</p>
+
+### Build & Testing Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=maven,gradle&perline=6" />
+  </a>
+</p>
+
+### Data Science & ML Libraries
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv&perline=6" />
+  </a>
+</p>
+
+**Python Libraries:** NumPy • Pillow  
+**APIs & Tools:** REST API • HTTP • Postman • ngrok  
+**Operating Systems:** Linux • Arch  
+**Other:** Claude Code • Zed
 
 ## Featured Projects
 
