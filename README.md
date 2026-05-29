@@ -1,13 +1,13 @@
-# Hey there! 👋
+# Hey I'm Ahmed
 
-I'm a developer passionate about building innovative software solutions.
+a Pasionate CS Student
 
-## 💪 Skills
+## Skills
 
 **Languages:** Python • C++ • Go  
 **Concepts:** REST APIs • Digital Logic Design • Desktop Applications • Video Processing
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
