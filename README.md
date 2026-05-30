@@ -24,7 +24,7 @@
 <p><img src="https://skillicons.dev/icons?i=neovim,vim,vscode,obsidian,postman,figma,git,github,pycharm,clion,intellij&perline=8" /></p>
 
 ### ML & data
-<p><img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy&perline=8" /></p>
+<p><img src="https://skillicons.dev/icons?i=opencv,numpy&perline=8" /></p>
 
 ---
 
@@ -32,10 +32,10 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [Ascii-Frame](https://github.com/AHMEDxHAGAG/Ascii-Frame) | Python · OpenCV | Convert any video into ASCII art and save it as an MP4 with audio |
-| [LearnFlow_cpp](https://github.com/AHMEDxHAGAG/LearnFlow_cpp) | C++ · Qt | Task manager desktop app with full GUI — scheduling, tracking, persistence |
+| [Ascii-Frame](https://github.com/AHMEDxHAGAG/Ascii-Frame) | Python · OpenCV · Numpy · Pillow | Convert any video into ASCII art and save it as an MP4 with audio |
+| [LearnFlow_cpp](https://github.com/AHMEDxHAGAG/LearnFlow_cpp) | C++ · Qt · CMake | Task manager desktop app with full GUI — scheduling, tracking, persistence |
 | [MARIE-From-NAND-Gate](https://github.com/AHMEDxHAGAG/MARIE-From-NAND-Gate) | Hardware · Architecture | 16-bit MARIE CPU simulator built entirely from NAND gates |
-| [Rest-API-Server-for-Puzzle-Game](https://github.com/AHMEDxHAGAG/Rest-API-Server-for-Puzzle-Game) | Go · REST | Lightweight REST API server powering a puzzle game backend |
+| [Rest-API-Server-for-Puzzle-Game](https://github.com/AHMEDxHAGAG/Rest-API-Server-for-Puzzle-Game) | Go · REST · MySQL · Ngrok | Lightweight REST API server powering a puzzle game backend |
 
 ---
 
