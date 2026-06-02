@@ -36,7 +36,7 @@
 | [LearnFlow_cpp](https://github.com/AHMEDxHAGAG/LearnFlow_cpp) | C++ · Qt · CMake | Task manager desktop app with full GUI — scheduling, tracking, persistence |
 | [MARIE-From-NAND-Gate](https://github.com/AHMEDxHAGAG/MARIE-From-NAND-Gate) | Hardware · Architecture | 16-bit MARIE CPU simulator built entirely from NAND gates |
 | [Agrilliant](https://github.com/GoBloxy/Agrilliant) | Java · JavaFX · MySQL · ESP32 | Smart farm management system with IoT sensors, real-time monitoring, and crop lifecycle tracking |
-| [Rest-API-Server-for-Puzzle-Game](https://github.com/AHMEDxHAGAG/Rest-API-Server-for-Puzzle-Game) | Go · REST · MySQL · Ngrok | Lightweight REST API server powering a puzzle game backend |
+| [The-Void-Case-REST-API-Server](https://github.com/AHMEDxHAGAG/The-Void-Case-REST-API-Server) | Go · REST · MySQL · Ngrok | Lightweight REST API server powering a puzzle game backend |
 
 ---
 
